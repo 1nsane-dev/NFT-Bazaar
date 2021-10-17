@@ -1,6 +1,8 @@
 # Carbon Credit NFT Bazaar
 
 A place to convert trees into Non-fungible token (NFT) and sell it.
+
+![alt text] https://github.com/svgvr8/Carbon-Credit-NFT-Bazaar/blob/main/3.png
 ## Installation
 
 Use the npm package manager to install dependencies.
